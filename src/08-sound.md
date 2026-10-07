@@ -79,6 +79,7 @@ I use [jsfxr](https://sfxr.me/) to create sound effects for games. It's simple a
 As for making your own music, there are lots of options out there. I use [1BitDragon](https://1bitdragon.com/), a limited (in a good way) tool for making music. [LMMS](https://lmms.io/) is a free, well-loved tool. Garageband on MacOS will get you pretty far too!
 
 There are many ways to convert the sounds you make to various formats, from command-line tools like ffmpeg to desktop apps. [Convertio](https://convertio.co/) is a free online service, among many, that you can use as well.
+ [Practical Web Tools](https://practicalwebtools.com/) is another free option that converts audio, video, and document formats entirely in the browser — files are processed locally and never uploaded.
 
 Making music and sound effects for games is a huge topic that's beyond the scope of this book, but hopefully, these tools can help you get started.
 
